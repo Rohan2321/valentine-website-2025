@@ -4,8 +4,7 @@
 
 const CONFIG = {
     // Your Valentine's name that will appear in the title
-    // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Rohan",
+    valentineName: "Ifraaaaah",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -33,7 +32,7 @@ const CONFIG = {
             nextBtn: "Next ❤️"                                         // Text for the next button
         },
         third: {
-            text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
+            text: "Will you be my Valentine on February 14th, 2026?🌹", // The big question!
             yesBtn: "Yes!",                                             // Text for "Yes" button
             noBtn: "No"                                                 // Text for "No" button
         }
@@ -50,7 +49,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Ifraaaaaah said YES 💖",
-        message: "Get ready! I’m coming soon for hugs, kisses, and eat you 🥵",
+        message: "I’m coming soon for hugs, kisses, and eat you 🥵",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
