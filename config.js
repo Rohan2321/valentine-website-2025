@@ -49,7 +49,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Ifraaaaaah said YES 💖",
-        message: "I’m coming soon for hugs, kisses, and holding you close",
+        message: "coming soon for hugs, kisses, and holding you close",
         emojis: "🤗💝💋❤️"  // These will bounce around
     },
 
